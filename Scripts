@@ -1,3 +1,4 @@
+local gameId = game.PlaceId
 if gameId == 10449761463 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/NickCurioso/NeptuneHub/refs/heads/main/NeptuneHub.txt"))()
 end
