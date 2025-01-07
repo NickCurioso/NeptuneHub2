@@ -1,8 +1,7 @@
 local gameId = game.PlaceId
+
 if gameId == 10449761463 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/NickCurioso/NeptuneHub/refs/heads/main/NeptuneHub.txt"))()
-end
-
-if gameId == 18668065416 then
-    https://raw.githubusercontent.com/NickCurioso/NeptuneHub3/refs/heads/main/BlueLock%20Rivals%20Obfuscated.txt
+elseif gameId == 18668065416 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/NickCurioso/NeptuneHub3/refs/heads/main/BlueLock%20Rivals%20Obfuscated.txt"))()
 end
